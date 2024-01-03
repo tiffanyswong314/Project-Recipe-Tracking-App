@@ -6,11 +6,11 @@ A CRUD application allows a user to create, read, update or delete selected data
 
 ## Requirements to pass
 
-For your project to pass, all of the following statements must be true. These criteria are reflected in the rubric in the next lesson.
+For your project to pass, all of the following statements must be true.
 - All tests are passing.
 - A user can create new recipes.
 - A list of the existing recipes is displayed to the user.
 - A user can delete a recipe.
 - The app uses the useState() hook.
-- Data is displayed in a table (such as the one provided in the starter code).
+- Data is displayed in a table.
 - The app looks like the provided mockup.
